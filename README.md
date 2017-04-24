@@ -1,7 +1,7 @@
 # tpope-pack
 
-This repository maintains a collection of vim plugins created by @tpope.
-The goal is to make them installable all at once using `vim8` `+packages`.
+This repository maintains a collection of vim plugins created by @tpope .
+The goal is to make them installable all at once using `vim8 +packages`.
 
 ## Installation
 
