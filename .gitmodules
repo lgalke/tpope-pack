@@ -1,0 +1,63 @@
+[submodule "start/vim-fugitive"]
+	path = start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "start/vim-repeat"]
+	path = start/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "start/vim-dispatch"]
+	path = start/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch
+[submodule "start/vim-projectionist"]
+	path = start/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist
+[submodule "start/vim-sleuth"]
+	path = start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth
+[submodule "start/vim-sensible"]
+	path = start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "start/vim-unimpaired"]
+	path = start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "start/vim-abolish"]
+	path = start/vim-abolish
+	url = https://github.com/tpope/vim-abolish
+[submodule "start/vim-commentary"]
+	path = start/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "start/vim-ragtag"]
+	path = start/vim-ragtag
+	url = https://github.com/tpope/vim-ragtag
+[submodule "start/vim-surround"]
+	path = start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "start/vim-jdaddy"]
+	path = start/vim-jdaddy
+	url = https://github.com/tpope/vim-jdaddy
+[submodule "start/vim-flagship"]
+	path = start/vim-flagship
+	url = https://github.com/tpope/vim-flagship
+[submodule "start/vim-haystack"]
+	path = start/vim-haystack
+	url = https://github.com/tpope/vim-haystack
+[submodule "opt/vim-vividchalk"]
+	path = opt/vim-vividchalk
+	url = https://github.com/tpope/vim-vividchalk
+[submodule "start/vim-obsession"]
+	path = start/vim-obsession
+	url = https://github.com/tpope/vim-obsession
+[submodule "start/vim-speeddating"]
+	path = start/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating
+[submodule "start/vim-vinegar"]
+	path = start/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar
+[submodule "start/vim-rsi"]
+	path = start/vim-rsi
+	url = https://github.com/tpope/vim-rsi
+[submodule "start/vim-endwise"]
+	path = start/vim-endwise
+	url = https://github.com/tpope/vim-endwise
+[submodule "start/vim-scriptease"]
+	path = start/vim-scriptease
+	url = https://github.com/tpope/vim-scriptease
