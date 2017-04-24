@@ -17,6 +17,7 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 - start/vim-commentary 
 - start/vim-dispatch 
 - start/vim-endwise 
+- start/vim-eunuch
 - start/vim-flagship 
 - start/vim-fugitive 
 - start/vim-haystack 
