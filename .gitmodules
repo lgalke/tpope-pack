@@ -61,3 +61,6 @@
 [submodule "start/vim-scriptease"]
 	path = start/vim-scriptease
 	url = https://github.com/tpope/vim-scriptease
+[submodule "start/vim-eunuch"]
+	path = start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
