@@ -1,7 +1,7 @@
 # tpope-pack
 
-This repository maintains a collection of vim plugins created by @tpope.
-The goal is to make them installable all at once using `vim8` `+packages`.
+This repository maintains a collection of vim plugins created by [Tim Pope](https://github.com/tpope).
+The goal is to make them installable all at once using `vim8 +packages`.
 
 ## Installation
 
@@ -10,6 +10,7 @@ mkdir -p ~/.vim/pack
 cd !!:2
 git clone --recursive https://github.com/lgalke/tpope-pack.git
 ```
+
 ## Contained plugins
 
 - [opt/vim-vividchalk](https://github.com/tpope/vim-vividchalk)
