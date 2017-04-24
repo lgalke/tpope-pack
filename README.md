@@ -7,6 +7,7 @@ The goal is to make them installable all at once using `vim8` `+packages`.
 
 ```bash
 mkdir -p ~/.vim/pack
+cd !!:2
 git clone --recursive https://github.com/lgalke/tpope-pack.git
 ```
 ## Contained plugins
