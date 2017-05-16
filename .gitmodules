@@ -64,3 +64,6 @@
 [submodule "start/vim-eunuch"]
 	path = start/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch
+[submodule "start/vim-markdown"]
+	path = start/vim-markdown
+	url = https://github.com/tpope/vim-markdown

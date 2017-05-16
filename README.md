@@ -35,6 +35,7 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 - [start/vim-surround](https://github.com/tpope/vim-surround)
 - [start/vim-unimpaired](https://github.com/tpope/vim-unimpaired)
 - [start/vim-vinegar](https://github.com/tpope/vim-vinegar)
+- [start/vim-markdown](https://github.com/tpope/vim-markdown)
 
 ## Notable exclusions
 
@@ -42,5 +43,4 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 - [tpope/vim-rails](https://github.com/tpope/vim-rails)
 - [tpope/vim-bundler](https://github.com/tpope/vim-bundler)
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace)
-- [tpope/vim-markdown](https://github.com/tpope/vim-markdown)
 - [tpope/vim-heroku](https://github.com/tpope/vim-heroku)
