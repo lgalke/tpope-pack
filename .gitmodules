@@ -67,3 +67,6 @@
 [submodule "start/vim-markdown"]
 	path = start/vim-markdown
 	url = https://github.com/tpope/vim-markdown
+[submodule "start/vim-characterize"]
+	path = start/vim-characterize
+	url = https://github.com/tpope/vim-characterize
