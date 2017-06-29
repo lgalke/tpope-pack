@@ -38,6 +38,7 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 - [start/vim-markdown](https://github.com/tpope/vim-markdown)
 - [start/vim-characterize](https://github.com/tpope/vim-characterize)
 - [start/vim-rhubarb](https://github.com/tpope/vim-rhubarb)
+- [start/vim-tbone](https://github.com/tpope/vim-tbone)
 
 ## Notable exclusions
 
