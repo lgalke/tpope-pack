@@ -13,7 +13,6 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 
 ## Contained plugins
 
-- [opt/vim-vividchalk](https://github.com/tpope/vim-vividchalk)
 - [start/vim-abolish](https://github.com/tpope/vim-abolish)
 - [start/vim-commentary](https://github.com/tpope/vim-commentary)
 - [start/vim-dispatch](https://github.com/tpope/vim-dispatch)
@@ -40,9 +39,11 @@ git clone --recursive https://github.com/lgalke/tpope-pack.git
 - [start/vim-rhubarb](https://github.com/tpope/vim-rhubarb)
 - [start/vim-tbone](https://github.com/tpope/vim-tbone)
 
+- [opt/vim-vividchalk](https://github.com/tpope/vim-vividchalk)
+- [opt/vim-pathogen](https://github.com/tpope/vim-pathogen)
+
 ## Notable exclusions
 
-- [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen)
 - [tpope/vim-rails](https://github.com/tpope/vim-rails)
 - [tpope/vim-bundler](https://github.com/tpope/vim-bundler)
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace)
