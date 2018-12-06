@@ -73,7 +73,7 @@
 [submodule "start/vim-rhubarb"]
 	path = start/vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb
-[submodule "vim-tbone"]
+[submodule "start/vim-tbone"]
 	path = start/vim-tbone
 	url = git://github.com/tpope/vim-tbone.git
 [submodule "opt/vim-pathogen"]
